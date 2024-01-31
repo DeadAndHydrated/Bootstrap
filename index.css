@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Medium.ttf') format('truetype');
+    font-weight: semi-bold;
+  }
+  
+  div {
+    font-family: 'Poppins', sans-serif;
+
+  }
+body{
+
+.title {
+
+    font-size: 1000px;
+}
+
+}
